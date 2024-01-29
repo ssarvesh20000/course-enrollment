@@ -1,0 +1,1 @@
+Wrote a JavaFX GUI application that simulates ASU course enrollment. Once run, the program will generate the following GUI window (an object from class "CoursePane"), The size of the GUI window is approximately 600 X 400. Simulating a replica of ASU classes and creating a course enrollment system with functionalities of searching, adding, and removing college courses
